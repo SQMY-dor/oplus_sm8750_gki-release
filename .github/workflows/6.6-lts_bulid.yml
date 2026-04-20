@@ -6,7 +6,6 @@ env:
   KERNEL_VERSION: '6.6'
   SUB_VERSION: 'lts_gki'
   KERNEL_NAME: 'android15-8-g7e1f3c083cc6-abogki467167594'
-  CCACHE_KEY: ccache-neov5-gki-6.12.23
 
 on:
   workflow_dispatch:
